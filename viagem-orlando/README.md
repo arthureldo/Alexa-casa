@@ -41,3 +41,4 @@
 | Data | Melhor oferta encontrada | Direto? | Fonte |
 |---|---|---|---|
 | 06/11/2026 | ~R$ 3.350 ida e volta/pessoa (com escala) | não | Kayak |
+| 06/11/2026 15h | ~R$ 4.487 ida e volta/pessoa em dezembro (≈ R$ 13.460 para 3), Avianca com escala; sem promoção na janela | não | Skyscanner |
