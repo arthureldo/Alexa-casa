@@ -2,6 +2,7 @@
 
 **Viajantes:** 3 (2 adultos + 1 criança com mais de 2 anos, que ocupa assento próprio e paga tarifa de criança, em geral igual ou próxima à de adulto)
 **Janela da viagem:** ida a partir de 18/12/2026, volta até 07/01/2027 (só compra se aparecer promoção imperdível)
+**Orçamento:** R$ 10.000 a R$ 13.000 no total para os 3, ida e volta (≈ R$ 3.300–4.300 por pessoa)
 **Prioridade:** 1) voo direto; 2) se tiver escala, a de menor tempo total de viagem; 3) preço
 **Milhas:** não costuma usar, mas quer saber de promoções de compra de milhas
 
