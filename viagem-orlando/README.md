@@ -1,6 +1,6 @@
 # Viagem Fortaleza (FOR) → Orlando (MCO): monitor de passagens
 
-**Viajantes:** 3 (casal + filha)
+**Viajantes:** 3 (2 adultos + 1 criança com mais de 2 anos, que ocupa assento próprio e paga tarifa de criança, em geral igual ou próxima à de adulto)
 **Prioridade:** voo direto, se existir; depois o menor preço total.
 
 ## Situação do voo direto (pesquisa de 06/11/2026)
