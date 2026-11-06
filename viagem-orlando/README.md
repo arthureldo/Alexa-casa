@@ -3,8 +3,15 @@
 **Viajantes:** 3 (2 adultos + 1 criança com mais de 2 anos, que ocupa assento próprio e paga tarifa de criança, em geral igual ou próxima à de adulto)
 **Janela da viagem:** ida a partir de 18/12/2026, volta até 07/01/2027 (só compra se aparecer promoção imperdível)
 **Orçamento:** R$ 10.000 a R$ 13.000 no total para os 3, ida e volta (≈ R$ 3.300–4.300 por pessoa)
+> ⚠️ Orçamento apertado para a alta temporada: a média de dezembro é ≈ R$ 5.900 por pessoa (≈ R$ 17.600 para os 3). Por isso a busca usa as estratégias abaixo.
+
+**Estratégias para caber no orçamento:**
+- Datas de ida flexíveis, incluindo viajar no Natal (24/25 de dezembro) e no Réveillon (31/12 e 01/01)
+- Aceitar voo com escala, preferindo a de menor tempo total de viagem
+- Comprar milhas, se houver promoção que saia mais barato que pagar em dinheiro
+
 **Prioridade:** 1) voo direto; 2) se tiver escala, a de menor tempo total de viagem; 3) preço
-**Milhas:** não costuma usar, mas quer saber de promoções de compra de milhas
+**Milhas:** não tem milhas, mas compra se houver promoção vantajosa
 
 ### Voo direto GOL na janela
 - G3 7736: FOR 03h20 → MCO 10h45 · G3 7737: MCO 13h30 → FOR 22h20 (horários de 2024, às quintas)
