@@ -43,3 +43,4 @@
 | 06/11/2026 | ~R$ 3.350 ida e volta/pessoa (com escala) | não | Kayak |
 | 06/11/2026 15h | ~R$ 4.487 ida e volta/pessoa em dezembro (≈ R$ 13.460 para 3), Avianca com escala; sem promoção na janela | não | Skyscanner |
 | 06/11/2026 21h | Sem promoção confirmada. Decolar: R$ 5.962/pessoa em data de dezembro; blog cita ~R$ 3.446 (sem data/companhia, não confirmado). Smiles sem promo de compra de milhas em novembro ainda | não | Decolar / Orlando para Brasileiros |
+| 07/11/2026 00h | Sem promoção. Decolar: tendência ~R$ 4.792/pessoa em dezembro (Delta, com escala) ≈ R$ 14.400 para 3; nenhuma promo nova de milhas | não | Decolar |
