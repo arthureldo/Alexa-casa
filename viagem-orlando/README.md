@@ -47,3 +47,4 @@
 | 07/11/2026 05h | Sem promoção de Fortaleza. Melhores Destinos (11/10) cita Orlando no fim de ano a partir de R$ 2.326, origem não informada (provavelmente SP). Black Friday em 27/11 | não | Melhores Destinos |
 | 07/11/2026 15h | Sem promoção nas datas. Referência milhas: direto GOL já saiu a partir de 97 mil Smiles/trecho (2024) → ~582 mil p/ 3 ida e volta; só compensa com promo Smiles (~R$ 17/milheiro ≈ R$ 9.900 + taxas) | não | Pontos pra Voar |
 | 07/11/2026 21h | Sem promoção. Decolar: dezembro ~R$ 5.962/pessoa; Momondo: quinta é o dia mais barato (a partir de R$ 3.642, sem data). Smiles sem promo de compra em novembro | não | Decolar / Momondo |
+| 08/11/2026 00h | Sem novidade. Nenhuma promoção de Fortaleza para a janela; referência segue Avianca ≈ R$ 13.460 para 3 | não | — |
