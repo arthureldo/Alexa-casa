@@ -49,3 +49,4 @@
 | 07/11/2026 21h | Sem promoção. Decolar: dezembro ~R$ 5.962/pessoa; Momondo: quinta é o dia mais barato (a partir de R$ 3.642, sem data). Smiles sem promo de compra em novembro | não | Decolar / Momondo |
 | 08/11/2026 00h | Sem novidade. Nenhuma promoção de Fortaleza para a janela; referência segue Avianca ≈ R$ 13.460 para 3 | não | — |
 | 08/11/2026 05h | Sem promoção nova (passagens nem compra de milhas). Referência segue Avianca ≈ R$ 13.460 para 3 | não | — |
+| 08/11/2026 15h | Sem promoção nova. Copa (via Panamá) a partir de USD 424–622 em referências gerais, sem Fortaleza; nenhuma promo de compra de milhas ativa | não | Copa / Decolar |
