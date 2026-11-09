@@ -52,3 +52,4 @@
 | 08/11/2026 15h | Sem promoção nova. Copa (via Panamá) a partir de USD 424–622 em referências gerais, sem Fortaleza; nenhuma promo de compra de milhas ativa | não | Copa / Decolar |
 | 08/11/2026 21h | Sem novidade. Decolar segue ~R$ 5.962/pessoa em dezembro; Azul sem tarifas FOR-MCO em dezembro. Referência: Avianca ≈ R$ 13.460 para 3 | não | Decolar / Azul |
 | 09/11/2026 00h | Sem promoção relâmpago para Orlando. Referência: Avianca ≈ R$ 13.460 para 3 | não | — |
+| 09/11/2026 05h | Sem promoção de Fortaleza. Alternativa vista: Azul saindo de Recife ~US$ 1.024/pessoa (25/12–15/01, volta fora da janela). Sem promo de milhas | não | Azul / Decolar |
