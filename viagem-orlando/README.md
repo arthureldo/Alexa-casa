@@ -56,3 +56,4 @@
 | 09/11/2026 15h | Sem promoção nova para Orlando. Referência: Avianca ≈ R$ 13.460 para 3 | não | — |
 | 09/11/2026 21h | Sem promoção nova (passagens nem milhas). Referência: Avianca ≈ R$ 13.460 para 3 | não | — |
 | 10/11/2026 00h | Sem promoção de Fortaleza na janela (ofertas da madrugada só saindo de SP/Viracopos, fora das datas). Referência: Avianca ≈ R$ 13.460 para 3 | não | CVC / Decolar |
+| 10/11/2026 05h | Sem promoção nova (passagens nem milhas). Referência: Avianca ≈ R$ 13.460 para 3 | não | — |
