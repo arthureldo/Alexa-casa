@@ -58,3 +58,4 @@
 | 10/11/2026 00h | Sem promoção de Fortaleza na janela (ofertas da madrugada só saindo de SP/Viracopos, fora das datas). Referência: Avianca ≈ R$ 13.460 para 3 | não | CVC / Decolar |
 | 10/11/2026 05h | Sem promoção nova (passagens nem milhas). Referência: Avianca ≈ R$ 13.460 para 3 | não | — |
 | 10/11/2026 15h | Sem promoção nova de Fortaleza. Melhores Destinos (22/10) cita EUA no fim de ano a partir de R$ 2.122, sem saída de Fortaleza. Referência: Avianca ≈ R$ 13.460 para 3 | não | Melhores Destinos |
+| 10/11/2026 21h | Sem promoção de passagem. Smiles: bônus de até 250% na compra de milhas (só assinantes do Clube) encerrou 10/11 21h; não compensaria (≈ R$ 20/milheiro → > R$ 11.600 só em milhas p/ 3, sem taxas). Referência: Avianca ≈ R$ 13.460 | não | Smiles / Skyscanner |
